@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mybatis-plus-demo
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mybatis_plus_demo?serverTimezone=UTC
+    username: root
+    password: root
